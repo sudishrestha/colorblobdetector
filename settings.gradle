@@ -1,0 +1,4 @@
+include ':colorblobs'
+include ':app'
+rootProject.name = "Color Blob Detection"
+include ':openCVLibrary343'
