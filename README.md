@@ -1,4 +1,4 @@
-To get a Git project into your build:
+To Get Started \
 
 Step 1. Add the JitPack repository to your build file
 
@@ -13,7 +13,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-		implementation 'com.github.User:Repo:Tag'
+		implementation 'com.github.sudishrestha:colorblobdetector:1.0.0'
 	}
   
 Step 3.  Add permision on manifest for camera
